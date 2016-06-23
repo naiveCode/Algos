@@ -78,7 +78,7 @@ class Mobile_telephony_services extends Services {
     }
 
 }
-public class Main {
+public class MainA {
 
     public static void main(String[] args){
         Mobile_telephony_services service = new Mobile_telephony_services();

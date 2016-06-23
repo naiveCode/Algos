@@ -3,7 +3,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class TestClass {
+class CrazyTreeSum {
     public static void main(String args[]) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line[] = br.readLine().split("\\s");

@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class AndroidReadiness {
     public static void main(String[] args) throws IOException {
-        // Test your code here:
+        // TestA your code here:
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int tests = Integer.parseInt(br.readLine());
