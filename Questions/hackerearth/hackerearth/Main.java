@@ -1,0 +1,5 @@
+package hackerearth;
+
+class Test{
+
+}
